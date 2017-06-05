@@ -7,7 +7,7 @@ $database = new \Medoo\Medoo([
     'database_name' => 'wechat',
     'server' => 'localhost',
     'username' => 'root',
-    'password' => 'root',
+    'password' => '123456',
     'charset' => 'utf8',
 
     // 可选参数
@@ -22,3 +22,4 @@ $database = new \Medoo\Medoo([
     ]
 ]);
 
+dump($database);

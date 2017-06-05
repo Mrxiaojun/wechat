@@ -4,7 +4,7 @@
  */
 
 //define your token
-define("TOKEN", "xdl2017");
+define("TOKEN", "wechat");
 $wechatObj = new wechatCallbackapiTest();
 
 if (isset($_GET['echostr']))
