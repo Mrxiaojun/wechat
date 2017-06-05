@@ -64,4 +64,4 @@ $arr = array(
     )
 );
 
-dump($arr);
+var_dump($arr);

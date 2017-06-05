@@ -1,8 +1,8 @@
 <?php
 include '../vendor/autoload.php';
 
-$appid = "wx542c11817c22d123";
-$appsecret = "8b2d7aac7d5dc87173bc62a429545e18";
+$appid = "wx4b4a573e1affecf6";
+$appsecret = "35339025d9d0cbd033a7908c689c81fe";
 
 $url = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=".$appid."&secret=".$appsecret;
 
